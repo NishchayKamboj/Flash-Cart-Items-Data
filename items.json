@@ -13,18 +13,5 @@
     "itemPrice": ,60
     "imageUrl": "https://drive.google.com/file/d/17PUMMS1RvWhlJ0Qyq_lD9ElWmaf_35fk/view?usp=sharing"
   }
-  {
-    "stringResourceId": "Papaya",
-    "itemCategoryId": "Fresh Fruits",
-    "itemQuantity": "1 kg",
-    "itemPrice": 120,
-    "imageUrl": ""
-  }
-  {
-    "stringResourceId": "Cherry",
-    "itemCategoryId": "Fresh Fruits",
-    "itemQuantity": "1 kg",
-    "itemPrice": 100,
-    "imageUrl": ""
-  }
+ 
   ]
