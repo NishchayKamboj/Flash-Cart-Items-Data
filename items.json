@@ -97,21 +97,6 @@
     "item_price": 175,
     "imageResourceId": "https://trainings.internshala.com/uploads/android/grocery_delivery_app/roohafza.png"
   },
-
-  {
-    "stringResourceId": "Tomato",
-    "itemCategoryId": "Fresh Vegetables",
-    "itemQuantity": "500 g",
-    "item_price": 20,
-    "imageResourceId": "https://trainings.internshala.com/uploads/android/grocery_delivery_app/tomato.png"
-  },
-  {
-    "stringResourceId": "Potato",
-    "itemCategoryId": "Fresh Vegetables",
-    "itemQuantity": "500 g",
-    "item_price": 15,
-    "imageResourceId": "https://trainings.internshala.com/uploads/android/grocery_delivery_app/potato.png"
-  },
   {
     "stringResourceId": "Uncle Chips",
     "itemCategoryId": "Munchies",
