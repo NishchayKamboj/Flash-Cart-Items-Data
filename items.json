@@ -1,9 +1,30 @@
 [
   {
-    "stringResourceId": "item_apple_name",
-    "itemCategoryId": "Beverages",
-    "itemQuantity": "50",
-    "itemPrice": 1,
-    "imageUrl": "https://github.com/NishchayKamboj/Flash-Cart-Items-Data/blob/1c24ad218032ffe313cdbaf74057ff86b2288b24/apple%202.png?raw=true"
+    "stringResourceId": "Apple",
+    "itemCategoryId": "Fresh Fruits",
+    "itemQuantity": "1 kg",
+    "itemPrice": 80,
+    "imageUrl": "https://drive.google.com/file/d/1eIkhJWwjcEh237v9_I08WS9IAB9c9Jwd/view?usp=sharing"
   }
-]
+  {
+    "stringResourceId": "Banana",
+    "itemCategoryId": "Fresh Fruits",
+    "itemQuantity": "1 kg",
+    "itemPrice": ,60
+    "imageUrl": "https://drive.google.com/file/d/17PUMMS1RvWhlJ0Qyq_lD9ElWmaf_35fk/view?usp=sharing"
+  }
+  {
+    "stringResourceId": "Papaya",
+    "itemCategoryId": "Fresh Fruits",
+    "itemQuantity": "1 kg",
+    "itemPrice": 120,
+    "imageUrl": ""
+  }
+  {
+    "stringResourceId": "Cherry",
+    "itemCategoryId": "Fresh Fruits",
+    "itemQuantity": "1 kg",
+    "itemPrice": 100,
+    "imageUrl": ""
+  }
+  ]
