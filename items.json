@@ -1,7 +1,7 @@
 [
   {
     "stringResourceId": "item_apple_name",
-    "itemCategoryId": 1,
+    "itemCategoryId": "Beverages",
     "itemQuantity": 50,
     "itemPrice": 0.99,
     "imageUrl": "https://drive.google.com/uc?export=view&id=DRIVE_FILE_ID"
