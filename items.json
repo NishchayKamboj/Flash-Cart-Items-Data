@@ -111,5 +111,12 @@
     "itemQuantity": "500 g",
     "item_price": 15,
     "imageResourceId": "https://trainings.internshala.com/uploads/android/grocery_delivery_app/potato.png"
+  },
+  {
+    "stringResourceId": "Uncle Chips",
+    "itemCategoryId": "Munchies",
+    "itemQuantity": "250 g",
+    "item_price": 25,
+    "imageResourceId": "https://drive.google.com/file/d/1vMUh29nMqPwGUCcwUuzrG7QLL3XGDPEr/view?usp=sharing"
   }
 ]
