@@ -1,14 +1,14 @@
 [
   {
     "stringResourceId": "Apple",
-    "itemCategoryId": "Fresh_Fruits",
+    "itemCategoryId": "Beverages",
     "itemQuantity": "1 kg",
     "itemPrice": 80,
     "imageUrl": "https://drive.google.com/uc?export=view&id=1eIkhJWwjcEh237v9_I08WS9IAB9c9Jwd"
   },
   {
     "stringResourceId": "Banana",
-    "itemCategoryId": "Fresh_Fruits",
+    "itemCategoryId": "Fresh Fruits",
     "itemQuantity": "1 kg",
     "itemPrice": 60,
     "imageUrl": "https://drive.google.com/uc?export=view&id=17PUMMS1RvWhlJ0Qyq_lD9ElWmaf_35fk"
