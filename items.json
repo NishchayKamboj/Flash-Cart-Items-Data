@@ -1,1 +1,16 @@
-
+[
+  {
+    "stringResourceId": "item_apple_name",
+    "itemCategoryId": 1,
+    "itemQuantity": 50,
+    "itemPrice": 0.99,
+    "imageUrl": "https://drive.google.com/uc?export=view&id=DRIVE_FILE_ID"
+  },
+  {
+    "stringResourceId": "item_banana_name",
+    "itemCategoryId": 1,
+    "itemQuantity": 30,
+    "itemPrice": 0.49,
+    "imageUrl": "https://drive.google.com/uc?export=view&id=ANOTHER_DRIVE_ID"
+  }
+]
