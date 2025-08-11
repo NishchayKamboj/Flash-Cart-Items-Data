@@ -103,12 +103,5 @@
     "itemQuantity": "250 g",
     "item_price": 25,
     "imageResourceId": "https://drive.google.com/uc?export=view&id=1vMUh29nMqPwGUCcwUuzrG7QLL3XGDPEr"
-  },
-  {
-    "stringResourceId": "Head and Shoulders",
-    "itemCategoryId": "Bath and Body",
-    "itemQuantity": "500 ml",
-    "item_price": 90,
-    "imageResourceId": "https://drive.google.com/uc?export=view&id=1zGk1qaXrsY_pa6x-fP04HSqSj_Hnlkie"
   }
 ]
